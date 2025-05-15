@@ -866,3 +866,4 @@ This project prioritizes world-class documentation. The following matrix tracks 
 All planning and install phases are now fully documented and ready for version-controlled deployment.
 
 ---
+# stair-lighting
