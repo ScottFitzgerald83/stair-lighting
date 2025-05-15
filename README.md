@@ -1,7 +1,7 @@
 # LOTR Stair Lighting System
 
 A motion-triggered, beautifully immersive stair lighting system inspired by the aesthetics of *The Lord of the Rings*. Built using a Raspberry Pi, ultrasonic sensors, and addressable LEDs, the system lights each step as you ascend or descend.
-
+![img.png](assets/final_graphic.png)
 ---
 
 ## 📑 Table of Contents
